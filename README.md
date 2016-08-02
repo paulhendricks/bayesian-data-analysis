@@ -1,1 +1,1 @@
-# bayesian-data-analysis
+# Bayesian Data Analysis: Notes
